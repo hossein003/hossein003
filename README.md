@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Telegram-07A0C3?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://twitter.com/life_is_passing" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-2F243A?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-D7FDF0?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
