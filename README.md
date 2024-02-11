@@ -1,8 +1,18 @@
 
 <div id="header" align="center">
-  <img src="https://github.com/hossein003/hossein003/assets/90480508/fa6b6176-26db-4be8-97c7-de83d944a6b1" width="25%"/>
+  <img src="https://github.com/hossein003/hossein003/assets/90480508/fa6b6176-26db-4be8-97c7-de83d944a6b1" width="30%"/>
 </div>
-
+<div id="badges">
+  <a href="www.linkedin.com/in/hossein-salehi-linked-in" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/life_is_passing" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://twitter.com/life_is_passing" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 
 
