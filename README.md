@@ -20,10 +20,8 @@
     Hey There ...
 </h1>
 <div align="center" >
-  <img src="https://github.com/hossein003/hossein003/assets/90480508/679fb724-783e-4f66-bca9-7571cabb8126" width="25%" />
+  <img src="https://github.com/hossein003/hossein003/assets/90480508/35573eb5-a060-4b47-a5b1-232825b5396a" width="25%" />
 </div>
-
-
 
 <!-- <iframe src="https://giphy.com/embed/h408T6Y5GfmXBKW62l" width="480" height="426" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/codeit-official-coding-helloworld-codeit-h408T6Y5GfmXBKW62l">via GIPHY</a></p>
 -->
