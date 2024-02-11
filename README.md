@@ -20,13 +20,11 @@
     Hey There ...
 </h1>
 <hr/>
-<h2> 👨‍💻 About me :</h2>
-- 😄 I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran 🇮🇷. <br/>
+<h2> 👨‍💻 About me :</h2><br>
 
+- 😄 I am a Java Developer <img style="display=inline" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran 🇮🇷. <br/>
 - 🔭 I work as a software engineer and collaborate on the backend to build web applications.<br/>
-  
 - 🌱 I have experience working with Java SE, Jakarta EE, Spring, Hibernate, Quarkus, and I have also gained experience in auxiliary tools such as Git.<br/>
-
 - ⚡ In my free time, I solve problems on <a href="https://www.codewars.com/">Codewars</a> and read tech articles From <a href="https://medium.com/">Medium</a>.<br/>
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)<br/>
