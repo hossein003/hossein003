@@ -19,8 +19,8 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     Hey There ...
 </h1>
-<div align="center" style="width:100%;height:0;padding-bottom:89%;position:relative;">
-  <img width="100%" height="100%" style="position:absolute" frameBorder="0" allowFullScreen src="https://github.com/hossein003/hossein003/assets/90480508/679fb724-783e-4f66-bca9-7571cabb8126" width="25%" />
+<div align="center" >
+  <img src="https://github.com/hossein003/hossein003/assets/90480508/679fb724-783e-4f66-bca9-7571cabb8126" width="25%" />
 </div>
 
 
