@@ -4,7 +4,7 @@
 </div>
 <h2 align="center">👋 Hi there ... </h2>
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/hossein-salehi-linked-in" target="_blank">
+  <a href="https://linkedin.com/in/hossein-salehi-linked-in" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-086788?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/life_is_passing" target="_blank">
