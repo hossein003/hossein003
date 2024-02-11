@@ -19,8 +19,10 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     Hey There ...
 </h1>
-<hr/>
-<h2> 👨‍💻 About me :</h2>
+
+----
+### 👨‍💻 About me :
+
 - 😄 I am a Java Developer <img style="display=inline" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from 🇮🇷. <br/>
 - 🔭 I work as a software engineer and collaborate on the backend to build web applications.<br/>
 - 🌱 I have experience working with Java SE, Jakarta EE, Spring, Hibernate, Quarkus, and I have also gained experience in auxiliary tools such as Git.<br/>
@@ -52,6 +54,7 @@
 ### 🔥 My Stats :
 
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=hossein003&theme=dark&mode=weekly&card_width=800" alt="GitHub Streak" /></a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hossein003&hide_progress=true)
 <!--
 **hossein003/hossein003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
