@@ -2,6 +2,7 @@
 <div id="header" align="center">
   <img src="https://github.com/hossein003/hossein003/assets/90480508/fa6b6176-26db-4be8-97c7-de83d944a6b1" width="30%"/>
 </div>
+<h2 align="center">👋 Hi there ... </h2>
 <div id="badges" align="center">
   <a href="www.linkedin.com/in/hossein-salehi-linked-in" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-086788?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
