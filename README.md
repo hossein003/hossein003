@@ -19,16 +19,17 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     Hey There ...
 </h1>
-----
-### 👨‍💻 About me :
-- 😄 I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran 🇮🇷.
-- 
-- 🔭 I work as a software engineer and collaborate on the backend to build web applications.
-- 🌱 I have experience working with Java SE, Jakarta EE, Spring, Hibernate, Quarkus, and I have also gained experience in auxiliary tools such as Git.
+<hr/>
+<h2> 👨‍💻 About me :</h2>
+- 😄 I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran 🇮🇷. <br/>
 
-- ⚡ In my free time, I solve problems on <a href="https://www.codewars.com/">Codewars</a> and read tech articles From <a href="https://medium.com/">Medium</a>.
+- 🔭 I work as a software engineer and collaborate on the backend to build web applications.<br/>
+  
+- 🌱 I have experience working with Java SE, Jakarta EE, Spring, Hibernate, Quarkus, and I have also gained experience in auxiliary tools such as Git.<br/>
 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- ⚡ In my free time, I solve problems on <a href="https://www.codewars.com/">Codewars</a> and read tech articles From <a href="https://medium.com/">Medium</a>.<br/>
+
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)<br/>
 <!--
 **hossein003/hossein003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
