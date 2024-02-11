@@ -19,10 +19,16 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     Hey There ...
 </h1>
-<div align="center" >
-  <img src="https://github.com/hossein003/hossein003/assets/90480508/7b5237da-30ed-4e7b-aeda-014a1a0caaf3" width="30%" height="30%" />
-</div>
+----
+### 👨‍💻 About me :
+- 😄 I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran 🇮🇷.
+- 
+- 🔭 I work as a software engineer and collaborate on the backend to build web applications.
+- 🌱 I have experience working with Java SE, Jakarta EE, Spring, Hibernate, Quarkus, and I have also gained experience in auxiliary tools such as Git.
 
+- ⚡ In my free time, I solve problems on <a href="https://www.codewars.com/">Codewars</a> and read tech articles From <a href="https://medium.com/">Medium</a>.
+
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 <!--
 **hossein003/hossein003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
