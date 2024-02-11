@@ -1,10 +1,5 @@
-<div align="center" style="width:100%;height:0;padding-bottom:100%;position:relative;">
-  <iframe src="https://giphy.com/embed/gjrYDwbjnK8x36xZIO" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
-  </iframe>
-</div>
-
 <div id="header" align="center">
-  <img src="https://github.com/hossein003/hossein003/assets/90480508/fa6b6176-26db-4be8-97c7-de83d944a6b1" width="100"/>
+  <img src="https://github.com/hossein003/hossein003/assets/90480508/fa6b6176-26db-4be8-97c7-de83d944a6b1" width="100%" height="50"/>
 </div>![giphy]()
 
 
