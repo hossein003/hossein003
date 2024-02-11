@@ -20,7 +20,7 @@
     Hey There ...
 </h1>
 <div align="center" >
-  <img src="https://github.com/hossein003/hossein003/assets/90480508/35573eb5-a060-4b47-a5b1-232825b5396a" width="600" height="300" />
+  <img src="https://github.com/hossein003/hossein003/assets/90480508/35573eb5-a060-4b47-a5b1-232825b5396a" width="30%" height="30%" />
 </div>
 
 
