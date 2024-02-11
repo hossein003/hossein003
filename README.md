@@ -53,8 +53,8 @@
 ---
 ### 🔥 My Stats :
 
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=hossein003&theme=dark&mode=weekly&card_width=800" alt="GitHub Streak" /></a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hossein003&layout=compact)
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=hossein003&theme=dark&mode=weekly&card_width=100%" alt="GitHub Streak" /></a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hossein003&layout=compact$card_width=100%)
 <!--
 **hossein003/hossein003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
